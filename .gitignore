@@ -33,3 +33,4 @@ lerna-debug.log*
 
 # OS
 Thumbs.db
+node_modules/
